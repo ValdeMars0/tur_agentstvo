@@ -5,7 +5,7 @@
   width: 100%;
   height: 750px;
   color: white;
-  background-image: url("Изображения/landscape.png");
+  background-image: url("images/landscape.png");
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -190,7 +190,7 @@ button {
 .info__image {
   width: 180px;
   height: 100px;
-  background-image: url("Изображения/wp1821086.jpg");
+  background-image: url("images/wp1821086.jpg");
   background-repeat: no-repeat;
   background-size: 180px;
   border-radius: 5px;
@@ -218,7 +218,7 @@ button {
 .half__tourist {
   width: 90%;
   height: 65%;
-  background-image: url("Изображения/tourist.png");
+  background-image: url("images/tourist.png");
   background-repeat: no-repeat;
   background-size: 100%;
   border-radius: 70px 0 0 0;
@@ -226,7 +226,7 @@ button {
 .half__map {
   width: 90%;
   height: 30%;
-  background-image: url("Изображения/world-image.png");
+  background-image: url("images/world-image.png");
   background-repeat: no-repeat;
   background-size: 100%;
   display: flex;
@@ -247,7 +247,7 @@ button {
 .images__tower {
   width: 49%;
   height: 100%;
-  background-image: url("Изображения/Eiffel-Tower.jpg");
+  background-image: url("images/Eiffel-Tower.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   border-radius: 0 70px 0 0;
@@ -344,7 +344,7 @@ button {
 .container__image {
   width: 375px;
   height: 431px;
-  background-image: url("Изображения/оператор.png");
+  background-image: url("images/оператор.png");
   background-size: 375px;
   background-repeat: no-repeat;
   display: flex;
@@ -496,24 +496,24 @@ button {
   position: relative;
 }
 .clark {
-  background-image: url("Люди/EC.png");
+  background-image: url("People/EC.png");
   background-size: cover;
 }
 .depp {
-  background-image: url("Люди/JD.png");
+  background-image: url("People/JD.png");
   background-size: cover;
 }
 .reeves {
-  background-image: url("Люди/KR.png");
+  background-image: url("People/KR.png");
   background-size: cover;
   background-position: 0px -22px;
 }
 .robbie {
-  background-image: url("Люди/MR.png");
+  background-image: url("People/MR.png");
   background-size: cover;
 }
 .downey {
-  background-image: url("Люди/RDjr.png");
+  background-image: url("People/RDjr.png");
   background-size: cover;
 }
 .worker__info {
@@ -593,7 +593,7 @@ ul {
   bottom: 0px;
 }
 li {
-  background-image: url("Иконки/list-item-icon.png");
+  background-image: url("icons/list-item-icon.png");
   background-repeat: no-repeat;
   background-size: 10px 10px;
   background-position: left center;
@@ -636,4 +636,5 @@ li {
   justify-content: center;
   align-items: center;
 }
+
 
